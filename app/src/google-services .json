@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1028776014617",
+    "project_id": "crudapp-be416",
+    "storage_bucket": "crudapp-be416.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028776014617:android:5c3afa14e3502a15d60b88",
+        "android_client_info": {
+          "package_name": "com.example.smartdairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028776014617-4avgh515c7v0sneh7p7o3b7qrqdg5huj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYANM8DEyfa5GSFsyDN4r3hVK7_5REqWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028776014617-4avgh515c7v0sneh7p7o3b7qrqdg5huj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
